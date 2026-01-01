@@ -1,0 +1,7 @@
+LABLE_BG = "#FFFFFF"
+LABEL_FG = "#000000"
+HEADER_BG = "#333333"
+MENU_FRAME_BG = "#EEEEEE"
+LABLE_FONT = ("Segoe UI", 12)
+CONTENT_BG= "#ffffff"
+TABLE_NAME_FONT = ("Segoe UI", 14, "bold")
